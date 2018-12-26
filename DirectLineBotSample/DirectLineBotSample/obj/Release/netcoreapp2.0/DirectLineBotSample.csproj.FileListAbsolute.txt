@@ -1,0 +1,11 @@
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\bin\Release\netcoreapp2.0\DirectLineBotSample.deps.json
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\bin\Release\netcoreapp2.0\DirectLineBotSample.runtimeconfig.json
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\bin\Release\netcoreapp2.0\DirectLineBotSample.runtimeconfig.dev.json
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\bin\Release\netcoreapp2.0\DirectLineBotSample.dll
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\bin\Release\netcoreapp2.0\DirectLineBotSample.pdb
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\obj\Release\netcoreapp2.0\DirectLineBotSample.csprojResolveAssemblyReference.cache
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\obj\Release\netcoreapp2.0\DirectLineBotSample.csproj.CoreCompileInputs.cache
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\obj\Release\netcoreapp2.0\DirectLineBotSample.AssemblyInfoInputs.cache
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\obj\Release\netcoreapp2.0\DirectLineBotSample.AssemblyInfo.cs
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\obj\Release\netcoreapp2.0\DirectLineBotSample.dll
+F:\Code Sources\DirectLineBotSample\DirectLineBotSample\obj\Release\netcoreapp2.0\DirectLineBotSample.pdb
